@@ -1,0 +1,9 @@
+#works{
+  margin: 0 auto;
+  min-height: cal(100vh - 4rem);
+  width: 100vw;
+  min-width: 60rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
